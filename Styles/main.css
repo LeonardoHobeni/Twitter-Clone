@@ -1,0 +1,11 @@
+.main-content{
+    font-family: Roboto, Arial;
+    font-size: 28px;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    height: 1000px;
+}
+div{
+margin: 0;
+}

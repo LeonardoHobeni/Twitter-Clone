@@ -1,0 +1,71 @@
+.left-bar{
+    width: 308px;
+    position: relative;
+    height: 650px;
+    padding: 8px 0 0 45px;
+}
+
+.twitter-home, .twitter-notify, .twitter-messages, .blue-icon, .twitter-profile,
+.twitter-more, .twitter-explore{
+    width: 27px;
+    margin-right: 20px;
+}
+
+.more-icon{
+    width: 20px;
+}
+
+.image-prof{
+    width:40px;
+    border-radius: 20px;
+}
+
+.profile-details{
+    margin-top: 90px;
+    font-size: 15px;
+    width: 270px;
+    display: flex;
+    align-items: center;
+}
+
+.text{
+    margin-left: 10px;
+    margin-right: 70px;
+    padding-bottom: 5px; 
+    color: rgb(98, 96, 96);
+}
+
+.prof-name{
+    font-weight: 700;
+    margin-bottom: 2px;
+    color: black;
+}
+
+.icon{
+    width: 34px;
+}
+
+.home, .explore, .notifications, .messages, .twitter-blue, .profile, .more{
+    display: flex;
+    font-size: 21px;
+    margin-bottom: -13px;
+    color: rgb(91, 88, 88);
+}
+
+.home .home-text{
+    font-weight: 700;
+    color: black;
+}
+
+.tweet-btn{
+    background-color: rgb(124, 124, 249);
+    padding: 15px 27px 15px 27px;
+    width: 180px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 40px;
+    margin-top: 18px;
+    margin-left: -10px;
+}

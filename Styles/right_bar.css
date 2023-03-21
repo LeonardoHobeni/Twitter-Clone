@@ -1,0 +1,6 @@
+.right-bar{
+    flex:1;
+    background-color: lightblue;
+    position: relative;
+    height: 650px;
+}
